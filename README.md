@@ -18,6 +18,10 @@ Daily Feelings is a lightweight desktop app built with Electron that lets you re
 - 🚪 Option to exit the app after saving  
 - 🎨 Dynamic UI with hover and selection effects
 
+📸 Preview
+
+https://github.com/user-attachments/assets/3862f2e4-362a-4bf1-9826-031bba5ab643
+
 🛠️ Tech Stack
 
 Electron – Cross-platform desktop app framework
